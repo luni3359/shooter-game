@@ -1,0 +1,40 @@
+{
+    "frames": {
+        "title": {
+            "frame": {
+                "x": 11,
+                "y": 2473,
+                "w": 640,
+                "h": 480
+            },
+            "spriteSourceSize": {
+                "x": 11,
+                "y": 2473,
+                "w": 640,
+                "h": 480
+            },
+            "sourceSize": {
+                "w": 1750,
+                "h": 3800
+            }
+        },
+        "loading_touhou": {
+            "frame": {
+                "x": 455,
+                "y": 401,
+                "w": 120,
+                "h": 120
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 120,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 1750,
+                "h": 3800
+            }
+        }
+    }
+}
